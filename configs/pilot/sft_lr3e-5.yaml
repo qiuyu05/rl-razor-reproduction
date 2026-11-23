@@ -1,0 +1,9 @@
+# Spec §6 pilot: SFT (gold) at the middle LR of the Q0 sweep, full length (2 epochs, 468 steps), 2 checkpoints
+# (steps 234 and 468), each fully evaluated. arm "pilot" gives run_id "pilot-sft-..." so analysis never
+# mixes these rows with the grid (R30).
+arm: pilot
+method: sft
+lr: 3e-5
+seed: 0
+epochs: 2
+n_ckpts: 2

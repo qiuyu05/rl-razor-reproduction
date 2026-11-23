@@ -1,0 +1,5 @@
+arm: q0
+method: grpo
+lr: 3e-6
+seed: 0
+smoke: true

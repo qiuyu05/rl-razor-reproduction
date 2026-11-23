@@ -1,0 +1,880 @@
+{
+ "source": "modal billing report --start 2026-11-20 --resolution h --json (fetched 2026-11-22 23:24 UTC; every stage-2 app stopped by 23:13 UTC; stage 1 unchanged at 40.74)",
+ "rows": [
+  {
+   "interval_start": "2026-11-21T22:00:00",
+   "description": "rlrazor",
+   "cost": "0.03700339"
+  },
+  {
+   "interval_start": "2026-11-21T22:00:00",
+   "description": "rlrazor",
+   "cost": "0.00787725"
+  },
+  {
+   "interval_start": "2026-11-21T23:00:00",
+   "description": "rlrazor",
+   "cost": "0.15096851"
+  },
+  {
+   "interval_start": "2026-11-21T23:00:00",
+   "description": "rlrazor",
+   "cost": "0.07621302"
+  },
+  {
+   "interval_start": "2026-11-21T23:00:00",
+   "description": "rlrazor",
+   "cost": "0.18322682"
+  },
+  {
+   "interval_start": "2026-11-21T23:00:00",
+   "description": "rlrazor",
+   "cost": "0.43564361"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.10313954"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.00001152"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.00003780"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000768"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.00002670"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.45483219"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.00002789"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.19974685"
+  },
+  {
+   "interval_start": "2026-11-22T00:00:00",
+   "description": "rlrazor",
+   "cost": "0.00001184"
+  },
+  {
+   "interval_start": "2026-11-22T01:00:00",
+   "description": "rlrazor-equiv",
+   "cost": "0.00320486"
+  },
+  {
+   "interval_start": "2026-11-22T01:00:00",
+   "description": "rlrazor-equiv",
+   "cost": "0.12866248"
+  },
+  {
+   "interval_start": "2026-11-22T02:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000384"
+  },
+  {
+   "interval_start": "2026-11-22T02:00:00",
+   "description": "rlrazor-det",
+   "cost": "0.27732466"
+  },
+  {
+   "interval_start": "2026-11-22T02:00:00",
+   "description": "rlrazor",
+   "cost": "0.19726948"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.57458218"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000440"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor-det",
+   "cost": "0.17304079"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000384"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00001987"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000384"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000384"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000384"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000384"
+  },
+  {
+   "interval_start": "2026-11-22T03:00:00",
+   "description": "rlrazor",
+   "cost": "0.91627959"
+  },
+  {
+   "interval_start": "2026-11-22T04:00:00",
+   "description": "rlrazor",
+   "cost": "0.11917768"
+  },
+  {
+   "interval_start": "2026-11-22T04:00:00",
+   "description": "rlrazor-diag",
+   "cost": "0.05407791"
+  },
+  {
+   "interval_start": "2026-11-22T04:00:00",
+   "description": "rlrazor-diag",
+   "cost": "0.00407628"
+  },
+  {
+   "interval_start": "2026-11-22T04:00:00",
+   "description": "rlrazor",
+   "cost": "2.19451804"
+  },
+  {
+   "interval_start": "2026-11-22T05:00:00",
+   "description": "rlrazor-diagkl2",
+   "cost": "0.00796814"
+  },
+  {
+   "interval_start": "2026-11-22T05:00:00",
+   "description": "rlrazor-diagkl",
+   "cost": "0.01993454"
+  },
+  {
+   "interval_start": "2026-11-22T05:00:00",
+   "description": "rlrazor",
+   "cost": "0.00003402"
+  },
+  {
+   "interval_start": "2026-11-22T05:00:00",
+   "description": "rlrazor",
+   "cost": "0.36674174"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.25477263"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.00003119"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.07687105"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.00062632"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.27952599"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.31412947"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.42793015"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.00164755"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.09058047"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.30744872"
+  },
+  {
+   "interval_start": "2026-11-22T06:00:00",
+   "description": "rlrazor",
+   "cost": "0.25467551"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "2.18557717"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "0.83178336"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "1.03045106"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "2.24086655"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "0.00732707"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "1.03810577"
+  },
+  {
+   "interval_start": "2026-11-22T07:00:00",
+   "description": "rlrazor",
+   "cost": "2.26556423"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.32507285"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.72284979"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.64432692"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.66475569"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.41866013"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "1.27792988"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.00063522"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.37425692"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.00520657"
+  },
+  {
+   "interval_start": "2026-11-22T08:00:00",
+   "description": "rlrazor",
+   "cost": "0.27823363"
+  },
+  {
+   "interval_start": "2026-11-22T09:00:00",
+   "description": "rlrazor-diag-q0",
+   "cost": "0.12919939"
+  },
+  {
+   "interval_start": "2026-11-22T09:00:00",
+   "description": "rlrazor",
+   "cost": "0.00485403"
+  },
+  {
+   "interval_start": "2026-11-22T09:00:00",
+   "description": "rlrazor",
+   "cost": "0.00001152"
+  },
+  {
+   "interval_start": "2026-11-22T09:00:00",
+   "description": "rlrazor",
+   "cost": "0.00001248"
+  },
+  {
+   "interval_start": "2026-11-22T10:00:00",
+   "description": "rlrazor",
+   "cost": "1.39493810"
+  },
+  {
+   "interval_start": "2026-11-22T10:00:00",
+   "description": "rlrazor",
+   "cost": "0.00077371"
+  },
+  {
+   "interval_start": "2026-11-22T10:00:00",
+   "description": "rlrazor",
+   "cost": "1.38167847"
+  },
+  {
+   "interval_start": "2026-11-22T10:00:00",
+   "description": "rlrazor",
+   "cost": "0.68751474"
+  },
+  {
+   "interval_start": "2026-11-22T10:00:00",
+   "description": "rlrazor",
+   "cost": "1.22376326"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.94449130"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.00130168"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.09385138"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.89533471"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.54709565"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.00142932"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.65137440"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.94850516"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.97342937"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.01281334"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.96381703"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.96302490"
+  },
+  {
+   "interval_start": "2026-11-22T11:00:00",
+   "description": "rlrazor",
+   "cost": "0.22095454"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "0.00252829"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "1.27278597"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "0.14431999"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "0.07840414"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "1.53985221"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "0.82021359"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "1.55210977"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "0.28449353"
+  },
+  {
+   "interval_start": "2026-11-22T12:00:00",
+   "description": "rlrazor",
+   "cost": "0.00001157"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.01656075"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "1.51258692"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.68510907"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.70540855"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.73058795"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.60082263"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.60820837"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "0.67951909"
+  },
+  {
+   "interval_start": "2026-11-22T15:00:00",
+   "description": "rlrazor",
+   "cost": "1.49807389"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.29699848"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.24431723"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.25992596"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.00081607"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.85523486"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.27044200"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.28360156"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.22987241"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "2.10866843"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "0.00067659"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "2.02740468"
+  },
+  {
+   "interval_start": "2026-11-22T16:00:00",
+   "description": "rlrazor",
+   "cost": "1.13754977"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.94583334"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "1.80605201"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.46136687"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.43604873"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.00191255"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.78472962"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.33725450"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.65637921"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "1.68119395"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.93303303"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.00002717"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.53742027"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.00000768"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.41696864"
+  },
+  {
+   "interval_start": "2026-11-22T17:00:00",
+   "description": "rlrazor",
+   "cost": "0.26399829"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.16829340"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.12031470"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.00262393"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.33595971"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.58250835"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.00105629"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.04809467"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.00164235"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "1.33149006"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.74862981"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.67626031"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.01274709"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.00002312"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.14702452"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "1.08695484"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.36870103"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "1.22392550"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.00070751"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.69141444"
+  },
+  {
+   "interval_start": "2026-11-22T18:00:00",
+   "description": "rlrazor",
+   "cost": "0.56360740"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.00164841"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.02662385"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.00008012"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.00068303"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.33231159"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.71645137"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.11052288"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.00048403"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "1.19111142"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.64010977"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.13592922"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.20099426"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.15264685"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.27863043"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.00094311"
+  },
+  {
+   "interval_start": "2026-11-22T19:00:00",
+   "description": "rlrazor",
+   "cost": "0.04286908"
+  },
+  {
+   "interval_start": "2026-11-22T20:00:00",
+   "description": "rlrazor",
+   "cost": "0.00003390"
+  },
+  {
+   "interval_start": "2026-11-22T20:00:00",
+   "description": "rlrazor",
+   "cost": "2.16342326"
+  },
+  {
+   "interval_start": "2026-11-22T20:00:00",
+   "description": "rlrazor",
+   "cost": "0.22086533"
+  },
+  {
+   "interval_start": "2026-11-22T20:00:00",
+   "description": "rlrazor",
+   "cost": "0.00004653"
+  },
+  {
+   "interval_start": "2026-11-22T21:00:00",
+   "description": "rlrazor",
+   "cost": "2.16337569"
+  },
+  {
+   "interval_start": "2026-11-22T22:00:00",
+   "description": "rlrazor",
+   "cost": "1.85994600"
+  }
+ ]
+}

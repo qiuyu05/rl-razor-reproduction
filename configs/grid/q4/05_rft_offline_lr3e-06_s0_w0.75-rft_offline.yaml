@@ -1,0 +1,14 @@
+arm: q4
+epochs: 2
+grpo_steps: 400
+init_from: rft_offline-lr3e-06-s0-863d2a/step-384
+lora_r: 0
+lr: 3.0e-06
+method: rft_offline
+mix_f: 0.0
+n_ckpts: 3
+noise_p: 0.0
+rounds: 4
+seed: 0
+smoke: false
+wise_alpha: 0.75

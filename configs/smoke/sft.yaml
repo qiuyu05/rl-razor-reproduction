@@ -1,0 +1,5 @@
+arm: q0
+method: sft
+lr: 3e-5
+seed: 0
+smoke: true

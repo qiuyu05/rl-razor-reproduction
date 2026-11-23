@@ -1,0 +1,181 @@
+{
+ "_note": "Trimmed from the real lm-eval 0.4.13 outputs of the base model (Modal A100-40GB, base_eval, 2026-11-22): one results file per benchmark merged; MMLU subtasks other than abstract_algebra dropped; configs/env info dropped; group_subtasks trimmed to match (real: mmlu -> 4 category groups -> 57 subjects).",
+ "config": {
+  "batch_size": "auto",
+  "limit": 500.0,
+  "model": "vllm",
+  "model_args": {
+   "dtype": "bfloat16",
+   "pretrained": "Qwen/Qwen2.5-0.5B-Instruct"
+  }
+ },
+ "group_subtasks": {
+  "hellaswag": [],
+  "humaneval_instruct": [],
+  "ifeval": [],
+  "mmlu": [
+   "mmlu_abstract_algebra"
+  ],
+  "truthfulqa_mc2": [],
+  "winogrande": []
+ },
+ "groups": {
+  "mmlu": {
+   "acc,none": 0.4842105263157895,
+   "acc_stderr,none": 0.02022411282548606,
+   "alias": "mmlu",
+   "name": "mmlu",
+   "sample_count": {
+    "acc,none": 570
+   },
+   "sample_len": 570
+  },
+  "mmlu_humanities": {
+   "acc,none": 0.5692307692307692,
+   "acc_stderr,none": 0.04181924725717972,
+   "alias": "humanities",
+   "name": "mmlu_humanities",
+   "sample_count": {
+    "acc,none": 130
+   },
+   "sample_len": 130
+  },
+  "mmlu_other": {
+   "acc,none": 0.46923076923076923,
+   "acc_stderr,none": 0.04343865216948055,
+   "alias": "other",
+   "name": "mmlu_other",
+   "sample_count": {
+    "acc,none": 130
+   },
+   "sample_len": 130
+  },
+  "mmlu_social_sciences": {
+   "acc,none": 0.5416666666666666,
+   "acc_stderr,none": 0.04504798538951904,
+   "alias": "social sciences",
+   "name": "mmlu_social_sciences",
+   "sample_count": {
+    "acc,none": 120
+   },
+   "sample_len": 120
+  },
+  "mmlu_stem": {
+   "acc,none": 0.4,
+   "acc_stderr,none": 0.03419927840283847,
+   "alias": "stem",
+   "name": "mmlu_stem",
+   "sample_count": {
+    "acc,none": 190
+   },
+   "sample_len": 190
+  }
+ },
+ "lm_eval_version": "0.4.13",
+ "n-samples": {
+  "hellaswag": {
+   "effective": 500,
+   "original": 10042
+  },
+  "humaneval_instruct": {
+   "effective": 164,
+   "original": 164
+  },
+  "ifeval": {
+   "effective": 541,
+   "original": 541
+  },
+  "mmlu_abstract_algebra": {
+   "effective": 10,
+   "original": 100
+  },
+  "truthfulqa_mc2": {
+   "effective": 500,
+   "original": 817
+  },
+  "winogrande": {
+   "effective": 500,
+   "original": 1267
+  }
+ },
+ "n-shot": {
+  "hellaswag": 0,
+  "humaneval_instruct": 0,
+  "ifeval": 0,
+  "mmlu_abstract_algebra": 0,
+  "truthfulqa_mc2": 0,
+  "winogrande": 0
+ },
+ "results": {
+  "hellaswag": {
+   "acc,none": 0.422,
+   "acc_norm,none": 0.512,
+   "acc_norm_stderr,none": 0.02237662679792717,
+   "acc_stderr,none": 0.022109039310618552,
+   "alias": "hellaswag",
+   "name": "hellaswag",
+   "sample_len": 500
+  },
+  "humaneval_instruct": {
+   "alias": "humaneval_instruct",
+   "name": "humaneval_instruct",
+   "pass@1,create_test": 0.31097560975609756,
+   "pass@1_stderr,create_test": 0.036256565294446076,
+   "sample_len": 164
+  },
+  "ifeval": {
+   "alias": "ifeval",
+   "inst_level_loose_acc,none": 0.37889688249400477,
+   "inst_level_loose_acc_stderr,none": "N/A",
+   "inst_level_strict_acc,none": 0.3597122302158273,
+   "inst_level_strict_acc_stderr,none": "N/A",
+   "name": "ifeval",
+   "prompt_level_loose_acc,none": 0.2754158964879852,
+   "prompt_level_loose_acc_stderr,none": 0.019223923196242016,
+   "prompt_level_strict_acc,none": 0.25508317929759705,
+   "prompt_level_strict_acc_stderr,none": 0.018758491950414142,
+   "sample_len": 541
+  },
+  "mmlu": {
+   "acc,none": 0.4842105263157895,
+   "acc_stderr,none": 0.02022411282548606,
+   "alias": "mmlu",
+   "name": "mmlu",
+   "sample_count": {
+    "acc,none": 570
+   },
+   "sample_len": 570
+  },
+  "mmlu_abstract_algebra": {
+   "acc,none": 0.4,
+   "acc_stderr,none": 0.1632993161855452,
+   "alias": "abstract_algebra",
+   "name": "mmlu_abstract_algebra",
+   "sample_len": 10
+  },
+  "truthfulqa_mc2": {
+   "acc,none": 0.4159712901472932,
+   "acc_stderr,none": 0.018509044836433335,
+   "alias": "truthfulqa_mc2",
+   "name": "truthfulqa_mc2",
+   "sample_len": 500
+  },
+  "winogrande": {
+   "acc,none": 0.566,
+   "acc_stderr,none": 0.022187215803029004,
+   "alias": "winogrande",
+   "name": "winogrande",
+   "sample_len": 500
+  }
+ },
+ "transformers_version": "5.20.2",
+ "versions": {
+  "hellaswag": 1.0,
+  "humaneval_instruct": 4.0,
+  "ifeval": 4.0,
+  "mmlu": "2",
+  "mmlu_abstract_algebra": 1.0,
+  "truthfulqa_mc2": 3.0,
+  "winogrande": 1.0
+ }
+}

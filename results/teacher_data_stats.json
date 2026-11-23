@@ -1,0 +1,46 @@
+{
+ "batch_k": 4,
+ "boxed_rate": 0.9642857142857143,
+ "cap": 16,
+ "correct_rate": 0.8726721659792526,
+ "distinct_frac_first_round": 1.0,
+ "first_round_solved_frac": 0.972969356349525,
+ "keep_rate": 0.9811320754716981,
+ "kept_mean_chars": 938.1913529732678,
+ "max_tokens": 512,
+ "n_prompts": 7473,
+ "n_rows": 7332,
+ "rounds": [
+  {
+   "n_per_prompt": 4,
+   "n_prompts": 7473,
+   "round": 0,
+   "solved_after": 7271
+  },
+  {
+   "n_per_prompt": 4,
+   "n_prompts": 202,
+   "round": 1,
+   "solved_after": 7303
+  },
+  {
+   "n_per_prompt": 4,
+   "n_prompts": 170,
+   "round": 2,
+   "solved_after": 7317
+  },
+  {
+   "n_per_prompt": 4,
+   "n_prompts": 156,
+   "round": 3,
+   "solved_after": 7332
+  }
+ ],
+ "run_id": "teacher_data-lr0-s0-27e57d",
+ "samples_per_prompt": 4.282617422721798,
+ "samples_total": 32004,
+ "seed": 0,
+ "teacher": "Qwen/Qwen2.5-7B-Instruct",
+ "temperature": 1.0,
+ "wall_seconds": 5715.179662311
+}

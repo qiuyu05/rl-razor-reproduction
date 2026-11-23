@@ -1,0 +1,14 @@
+arm: q2
+epochs: 2
+grpo_steps: 234
+init_from: null
+lora_r: 0
+lr: 1.0e-06
+method: grpo
+mix_f: 0.0
+n_ckpts: 3
+noise_p: 0.2
+rounds: 4
+seed: 0
+smoke: false
+wise_alpha: 0.0

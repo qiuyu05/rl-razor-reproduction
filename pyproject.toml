@@ -1,0 +1,32 @@
+[project]
+name = "rlrazor"
+version = "0.1.0"
+description = "Reproduction of RL's Razor: SFT vs GRPO forgetting on Qwen2.5-0.5B + GSM8K"
+readme = "README.md"
+authors = [{ name = "Andrew Qiu" }]
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=5.2.0",
+    "lm-eval>=0.4.13",
+    "matplotlib>=3.11.2",
+    "modal[api-proxy-support]>=1.6.4",
+    "numpy>=2.4.6",
+    "peft>=0.22.0",
+    "pyyaml>=6.0.4",
+    "scipy>=1.17.1",
+    "torch>=2.15.0",
+    "transformers>=5.24.0",
+    "trl>=1.18.2",
+]
+
+[build-system]
+requires = ["uv_build>=0.11.8,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

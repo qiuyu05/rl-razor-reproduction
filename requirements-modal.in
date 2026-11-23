@@ -1,0 +1,14 @@
+# Modal image deps: the project's pins (uv.lock) plus vllm. vllm 0.33.0 (the newest TRL 1.18.2 supports, <0.34)
+# pins torch==2.14.0 and transformers<5.21, so torch/transformers/numpy here differ from uv.lock (torch 2.15.0,
+# transformers 5.24.0, used for local CPU tests). Regenerate with:
+#   uv pip compile requirements-modal.in --python-version 3.11 --python-platform x86_64-manylinux_2_28 -o requirements-modal.txt
+vllm==0.33.0
+trl==1.18.2
+lm-eval[ifeval]==0.4.13
+evaluate==0.4.6
+datasets==5.2.0
+peft==0.22.0
+accelerate==1.16.0
+huggingface-hub==2.4.0
+pyyaml==6.0.4
+nltk==3.10.4

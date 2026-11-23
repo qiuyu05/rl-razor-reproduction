@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+outputs/
+*.egg-info
+writeup/*.aux
+writeup/*.log
+writeup/*.out
+writeup/*.toc
+out/
